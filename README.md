@@ -4,4 +4,4 @@
 
 ## MIT
 
-MIT License: <https://github.com/>
+MIT License: <https://github.com/doomsterinc/licenses/blob/master/MIT-LICENSE.md>
